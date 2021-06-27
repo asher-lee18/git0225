@@ -6,6 +6,6 @@ public class test {
 
         System.out.println("hot-fex");
         System.out.println("push");
-
+System.out.println("pull");
     }
 }
